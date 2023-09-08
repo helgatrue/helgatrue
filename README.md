@@ -1,4 +1,3 @@
-### Hi there 👋
 # 💫 About Me:
 An accomplished QA Engineer with experience in manual testing, proficiently harnessing the power of tools like Cypress, Playwright, and Python to ensure software excellence. A mentor at heart, dedicated to nurturing and guiding aspiring testers on their journey to success.
 
@@ -14,10 +13,10 @@ An accomplished QA Engineer with experience in manual testing, proficiently harn
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=helgatrue&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=helgatrue&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=helgatrue&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=helgatrue&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=helgatrue&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=helgatrue&icon=0&color=0)](https://visitcount.itsvg.in)
